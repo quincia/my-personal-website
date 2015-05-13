@@ -983,8 +983,8 @@ MENU STYLING
 .nav-collapse ul li {
   width: 100%;
   display: block;
-  background: seagreen;
-  border-bottom: 2px solid #349e63;
+  background: grey;
+  border-bottom: 2px solid #8d8d8d;
 }
 .nav-collapse ul li a {
   color: white;
@@ -1019,7 +1019,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: grey;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -1031,7 +1031,7 @@ MENU STYLING
 }
 .nav-toggle:hover {
   color: white;
-  background-color: #21653f;
+  background-color: #676767;
 }
 
 /***************
@@ -1067,8 +1067,8 @@ PAGE STYLES
 HEADER STYLING
 ***************/
 .header {
-  background-color: seagreen;
-  background-image: url("../img/touring.jpg");
+  background-color: grey;
+  background-image: url("../img/newyork.jpg");
   background-size: cover;
   background-position: center center;
   color: white;
@@ -1120,7 +1120,7 @@ POST STYLING
   content: "";
   position: absolute;
   top: -1.25em;
-  background: seagreen;
+  background: grey;
   display: block;
   height: 2px;
   width: 150px;
@@ -1130,7 +1130,7 @@ POST STYLING
   content: "";
   position: absolute;
   bottom: -1.25em;
-  background: seagreen;
+  background: grey;
   display: block;
   height: 2px;
   width: 150px;
