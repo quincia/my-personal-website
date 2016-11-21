@@ -37,11 +37,11 @@
                         </li> 
                     
                         <li class="element  current ">
-                            <a href="/about">About me</a>
+                            <a href="/about/">About me</a>
                         </li> 
                     
                         <li class="element   last">
-                            <a href="/contact">Contatto</a>
+                            <a href="/contact/">Contatto</a>
                         </li> 
                     
                     </ul>
@@ -86,7 +86,7 @@
             <div class="container">
               <p class="copy">&copy; 2015 <a href="http://umbe.me">_umbe</a> // <a href="//www.iubenda.com/privacy-policy/976426" class="iubenda-nostyle no-brand iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script> // <a href="https://github.com/brianmaierjr/long-haul" target="_blank">Long Haul theme</a> // Powered by <a href="http://jekyllrb.com">Jekyll</a></p>
 
-              <div class="footer-links">
+              <div class="footer-links"> 
                 <ul class="noList">
                   <li><a href="https://twitter.com/_umbe">
                     <svg id="twitter" class="custom-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" style="height: 30px; width: 30px;"><circle class="outer-shape" cx="50" cy="50" r="48" style="opacity: 1;"></circle>
@@ -119,13 +119,13 @@
           </div><!-- end .footer -->
 
           <!-- Add jQuery and other scripts -->
-
+        
           <script src="/assets/vendor/jquery/dist/jquery.min.87e69028.js"></script>
 
           <script src="/assets/vendor/dropcap.js/dropcap.min.6cc73cbf.js"></script>
 
           <script src="/assets/vendor/responsive-nav/responsive-nav.min.1ccbea38.js"></script>
-
+          
           <script src="/assets/js/scripts.min.7c262f7e.js"></script>
 
           <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
@@ -139,7 +139,8 @@
             ga('send', 'pageview');
 
           </script>
-
+          
+          <!-- Cookie banner -->
           <script type="text/javascript">
             var _iub = _iub || [];
             _iub.csConfiguration = {
@@ -147,8 +148,11 @@
               siteId: 268903,
               lang: "it"
             };
+            (function (w, d) {
+              var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js"; tag.parentNode.insertBefore(s, tag); };
+              if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; }
+            })(window, document);
           </script>
-          <script type="text/javascript" src= "//cdn.iubenda.com/cookie_solution/safemode/iubenda_cs.js" charset="UTF-8" async></script>
     </body>
 </html>
 
