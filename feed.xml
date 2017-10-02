@@ -2,9 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>_umbe://blog - Articles</title>
-		<description>A simple blog.</description>
+		<description>_umbe personal blog.</description>
 		<link>https://umbe.me</link>
 		<atom:link href="https://umbe.me/feed.articles.xml" rel="self" type="application/rss+xml" />
+		
+			
+			<item>
+				<title>Un certo periodo di silenzio</title>
+				
+					<description>&lt;p class=&quot;intro&quot;&gt;Decisamente desolante questo blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;dropcap&quot;&gt;S&lt;/span&gt;ono passati ormai due anni da quanto ho cercato di tenere aggiornato questo blog.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
+				<link>https://umbe.me/blog/un-post-lungo-due-anni/</link>
+				<guid isPermaLink="true">https://umbe.me/blog/un-post-lungo-due-anni/</guid>
+			</item>
+			
 		
 			
 			<item>
