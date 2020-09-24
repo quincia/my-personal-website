@@ -4,20 +4,19 @@
 		<title>_umbe://blog - Articles</title>
 		<description>_umbe personal blog.</description>
 		<link>https://umbe.me</link>
-		<atom:link href="https://umbe.me/feed" rel="self" type="application/rss+xml" />
+		<atom:link href="https://umbe.me/feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
-				<title>Un certo periodo di silenzio</title>
+				<title>Un certo periodo di silenzio!</title>
 				
-					<description>&lt;p class=&quot;intro&quot;&gt;Decisamente desolante questo blog.&lt;/p&gt;
+					<description>&lt;p class=&quot;intro&quot;&gt;Decisamente desolante questo blog&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;dropcap&quot;&gt;S&lt;/span&gt;ono passati ormai due anni da quanto ho cercato di tenere aggiornato questo blog.&lt;/p&gt;
 </description>
 				
 				<pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
-				<link>https://umbe.me/blog/un-post-lungo-due-anni/</link>
-				<guid isPermaLink="true">https://umbe.me/blog/un-post-lungo-due-anni/</guid>
+				<link>https://umbe.me/blog/un-certo-periodo-di-silenzio/</link>
+				<guid isPermaLink="true">https://umbe.me/blog/un-certo-periodo-di-silenzio/</guid>
 			</item>
 			
 		
@@ -26,8 +25,8 @@
 				<title>Jawbone UP24</title>
 				
 					<description>&lt;p class=&quot;intro&quot;&gt;Un contapassi evoluto al polso.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;dropcap&quot;&gt;P&lt;/span&gt;er chi pratica sport è sicuramente un periodo d’oro dal punto di vista di gadget tecnologici che possano aiutare a raggiungere i propri obiettivi di fitness.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;dropcap&quot;&gt;P&lt;/span&gt;er chi pratica sport è sicuramente un periodo d&amp;#39;oro dal punto di vista di gadget tecnologici che possano aiutare a raggiungere i propri obiettivi di fitness.&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 23 Jun 2015 00:00:00 +0200</pubDate>
@@ -41,7 +40,6 @@
 				<title>Hello World!</title>
 				
 					<description>&lt;p class=&quot;intro&quot;&gt;Non c'è codice che si rispetti senza un &lt;b&gt;Hello World!&lt;/b&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;span class=&quot;dropcap&quot;&gt;A&lt;/span&gt; dire il vero non so davvero cosa scriverò di preciso su questo blog: spero solo di renderlo interessante per quelli che ogni tanto capiteranno qui.
 A presto!&lt;/p&gt;
 </description>
