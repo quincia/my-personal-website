@@ -1,0 +1,15 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Push github pages
+on:
+  push:
+    branches: [gh-pages]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge cache
+        uses: nathanvaughn/actions-cloudflare-purge@master
+        env:
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+          CLOUDFLARE_AUTH_KEY: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
