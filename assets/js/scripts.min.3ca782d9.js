@@ -1,2 +1,0 @@
-/* My personal website v0.0.1 -  - Copyright 2020  */
-$(document).ready(function(){var a=document.querySelectorAll(".dropcap");window.Dropcap.layout(a,2);responsiveNav(".nav-collapse");$(".time").text(function(a,b){return Math.round(parseFloat(b))})});

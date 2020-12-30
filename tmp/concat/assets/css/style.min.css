@@ -1,3 +1,4 @@
+/* My personal website v0.0.1 -  - Copyright 2020  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
 /***************
@@ -496,7 +497,7 @@ MENU STYLING
   text-indent: -9999px;
   overflow: hidden;
   display: block;
-  background: #000 url("/assets/img/hamburger.427714e2.gif") no-repeat 50% 49%;
+  background: #000 url("/assets/img/hamburger.gif") no-repeat 50% 49%;
   position: relative;
   top: 5px;
   right: 5px;
