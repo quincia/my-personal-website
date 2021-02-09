@@ -5,7 +5,7 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "umbe.me"
 languageCode = "it-it"
 baseURL = "https://umbe.me/"
 copyright = "© {year}"
